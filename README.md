@@ -3,12 +3,11 @@
 <h3 align="center">A passionate FullStack Developer from Memphis</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-[Here is my LinkIn](https://www.linkedin.com/in/michael-harris-348835266)
+[HEY Here is my LinkIn](https://www.linkedin.com/in/michael-harris-348835266)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=53F762&width=1000&lines=Hello+my+name+is+Michael+Harris+I'm+a+Software+Engineer;Hello+my+name+is+Michael+Harris+I'm+a+Gamer;Hello+my+name+is+Michael+Harris+I'm+a+Lifter;Hello+my+name+is+Michael+Harris+I'm+a+Music+Fan;Hello+my+name+is+Michael+Harris+I'm+a+Baker;Hello+my+name+is+Michael+Harris+I'm+a+Anime+Fan;Hello+my+name+is+Michael+Harris+I'm+a+SE+at+CodeCrew;Hello+my+name+is+Micahel+Harris+I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="" alt="rishavchanda" /> </p>
-
-<p align="left"> <a href="https://instagram.com/Mikem.ike800" target="blank"><img src="" alt="rishavchanda"  </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
