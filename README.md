@@ -51,7 +51,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelharris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+![Mikemike8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikemike8&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelharris&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
